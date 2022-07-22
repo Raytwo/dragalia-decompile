@@ -1,0 +1,10 @@
+namespace Dpr.Battle.Logic;
+
+public enum ResultCause
+{
+	RESULT_CAUSE_OTHER,
+	RESULT_CAUSE_ALL_DEAD,
+	RESULT_CAUSE_TIMEOVER,
+	RESULT_CAUSE_TURNOVER,
+	RESULT_SAFARI_BALL
+}

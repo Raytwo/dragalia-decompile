@@ -1,0 +1,9 @@
+namespace Dpr.SequenceEditor;
+
+public enum GRP_OPT_MSG_SELECT
+{
+	GRP_OPT_NONE = 0,
+	GRP_OPT_MSG_SELECT_A = 150,
+	GRP_OPT_MSG_SELECT_B = 151,
+	GRP_OPT_MSG_SELECT_C = 152
+}

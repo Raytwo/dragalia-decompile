@@ -1,0 +1,10 @@
+public enum SpriteAtlasID
+{
+	SHAREDUI,
+	COMMON,
+	COMMON_LANG,
+	TEXTUREMASS,
+	SHAREDUI_LANG,
+	BATTLE_LANG,
+	ZUKAN
+}

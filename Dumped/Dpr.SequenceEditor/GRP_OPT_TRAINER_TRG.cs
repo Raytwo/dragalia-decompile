@@ -1,0 +1,10 @@
+namespace Dpr.SequenceEditor;
+
+public enum GRP_OPT_TRAINER_TRG
+{
+	GRP_OPT_NONE = 0,
+	GRP_OPT_TRG1_SELF = 70,
+	GRP_OPT_TRG1_ENEMY = 71,
+	GRP_OPT_TRG2_SELF = 72,
+	GRP_OPT_TRG2_ENEMY = 73
+}

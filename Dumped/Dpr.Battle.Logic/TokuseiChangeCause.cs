@@ -1,0 +1,8 @@
+namespace Dpr.Battle.Logic;
+
+public enum TokuseiChangeCause : byte
+{
+	TOKUSEI_CHANGE_CAUSE_OTHER,
+	TOKUSEI_CHANGE_CAUSE_MIIRA,
+	TOKUSEI_CHANGE_CAUSE_SAMAYOU_TAMASII
+}

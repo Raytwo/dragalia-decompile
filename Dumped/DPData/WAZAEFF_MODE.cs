@@ -1,0 +1,8 @@
+namespace DPData;
+
+public enum WAZAEFF_MODE
+{
+	WAZAEFF_MODE_ON,
+	WAZAEFF_MODE_OFF,
+	WAZAEFF_MODE_MAX
+}

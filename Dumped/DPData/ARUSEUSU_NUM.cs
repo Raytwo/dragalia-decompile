@@ -1,0 +1,24 @@
+namespace DPData;
+
+public enum ARUSEUSU_NUM
+{
+	NORMAL,
+	BATTLE,
+	HIKOU,
+	POISON,
+	JIMEN,
+	IWA,
+	MUSHI,
+	GHOST,
+	METAL,
+	FIRE,
+	WATER,
+	KUSA,
+	ELECTRIC,
+	ESPER,
+	KOORI,
+	DRAGON,
+	AKU,
+	FAIRY,
+	END
+}

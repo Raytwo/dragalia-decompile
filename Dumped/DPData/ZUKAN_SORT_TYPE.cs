@@ -1,0 +1,12 @@
+namespace DPData;
+
+public enum ZUKAN_SORT_TYPE
+{
+	NUMBER,
+	INITIAL,
+	HEAVIER,
+	LIGHTER,
+	HIGHER,
+	LOWER,
+	MAX
+}

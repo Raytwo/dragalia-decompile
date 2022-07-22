@@ -1,0 +1,8 @@
+namespace Dpr.SequenceEditor;
+
+public enum SEQ_DEF_WINDOW_TYPE
+{
+	SEQ_DEF_WINDOW_NORMAL,
+	SEQ_DEF_WINDOW_EMPHASIS,
+	SEQ_DEF_WINDOW_CLOUD
+}

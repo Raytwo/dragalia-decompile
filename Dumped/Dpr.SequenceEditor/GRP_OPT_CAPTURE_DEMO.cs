@@ -1,0 +1,8 @@
+namespace Dpr.SequenceEditor;
+
+public enum GRP_OPT_CAPTURE_DEMO
+{
+	GRP_OPT_NONE = 0,
+	GRP_OPT_DEF_CAPTURE_DEMO = 80,
+	GRP_OPT_DEF_NOT_CAPTURE_DEMO = 81
+}

@@ -1,0 +1,9 @@
+namespace Dpr.SequenceEditor;
+
+public enum SEQ_DEF_FOG_MODE
+{
+	SEQ_DEF_FOG_MODE_LINEAR,
+	SEQ_DEF_FOG_MODE_EXP1,
+	SEQ_DEF_FOG_MODE_EXP2,
+	SEQ_DEF_FOG_MODE_LUT
+}

@@ -1,0 +1,13 @@
+public enum SharedSpriteID
+{
+	POKEMONSEX00,
+	POKEMONSEX01,
+	KEY_A,
+	KEY_B,
+	KEY_X,
+	KEY_Y,
+	KEY_R,
+	KEY_PLUS,
+	CMN_BT_CONTEXT_01_BODY,
+	KEY_L
+}

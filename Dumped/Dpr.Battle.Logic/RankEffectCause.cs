@@ -1,0 +1,16 @@
+namespace Dpr.Battle.Logic;
+
+public enum RankEffectCause : byte
+{
+	OTHER,
+	IKAKU,
+	NUMENUME,
+	KINGSHIELD,
+	NEBANEBANET,
+	RAID_BOSS_EXTRA_ATTACK,
+	RAID_BOSS_BREAK_GWALL,
+	GSHOCK,
+	CHEER,
+	MIRRORARMOR,
+	TAKOGATAME
+}

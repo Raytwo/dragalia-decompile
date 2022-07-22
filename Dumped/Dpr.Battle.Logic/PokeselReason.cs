@@ -1,0 +1,9 @@
+namespace Dpr.Battle.Logic;
+
+public enum PokeselReason
+{
+	BTL_POKESEL_CANT_NONE,
+	BTL_POKESEL_CANT_DEAD,
+	BTL_POKESEL_CANT_FIGHTING,
+	BTL_POKESEL_CANT_SELECTED
+}

@@ -1,0 +1,8 @@
+namespace Dpr.SequenceEditor;
+
+public enum SEQ_DEF_LIGHT_TRG_SIDE
+{
+	SEQ_DEF_LIGHT_TRG_SIDE_ALL,
+	SEQ_DEF_LIGHT_TRG_SIDE_ATK,
+	SEQ_DEF_LIGHT_TRG_SIDE_DEF
+}

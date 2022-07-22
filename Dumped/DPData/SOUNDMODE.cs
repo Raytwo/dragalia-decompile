@@ -1,0 +1,8 @@
+namespace DPData;
+
+public enum SOUNDMODE
+{
+	SOUNDMODE_STEREO,
+	SOUNDMODE_MONO,
+	SOUNDMODE_MAX
+}

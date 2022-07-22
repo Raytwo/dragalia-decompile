@@ -1,0 +1,10 @@
+namespace Dpr.Battle.Logic;
+
+public enum YesNoMode
+{
+	YESNO_MODE_YESNO,
+	YESNO_MODE_NEXT_POKE,
+	YESNO_MODE_POKE_CHANGE,
+	YESNO_MODE_FORGET,
+	YESNO_MODE_NUM
+}

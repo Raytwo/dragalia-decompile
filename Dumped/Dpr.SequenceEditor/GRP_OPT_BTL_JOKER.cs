@@ -1,0 +1,10 @@
+namespace Dpr.SequenceEditor;
+
+public enum GRP_OPT_BTL_JOKER
+{
+	GRP_OPT_NONE = 0,
+	GRP_OPT_BTL_JOKER_1 = 170,
+	GRP_OPT_BTL_JOKER_2 = 171,
+	GRP_OPT_BTL_JOKER_3 = 172,
+	GRP_OPT_BTL_NOT_JOKER = 173
+}

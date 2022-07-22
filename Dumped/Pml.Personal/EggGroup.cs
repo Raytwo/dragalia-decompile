@@ -1,0 +1,21 @@
+namespace Pml.Personal;
+
+public enum EggGroup
+{
+	NONE,
+	KAIJUU,
+	SUISEI,
+	MUSI,
+	TORI,
+	DOUBUTU,
+	YOUSEI,
+	SYOKUBUTU,
+	HITOGATA,
+	KOUKAKU,
+	MUKIBUTU,
+	FUTEIKEI,
+	SAKANA,
+	METAMON,
+	DORAGON,
+	MUSEISYOKU
+}

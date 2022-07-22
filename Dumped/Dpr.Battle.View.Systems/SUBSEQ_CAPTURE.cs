@@ -1,0 +1,15 @@
+namespace Dpr.Battle.View.Systems;
+
+public enum SUBSEQ_CAPTURE
+{
+	SEQ_START,
+	SEQ_1,
+	SEQ_2,
+	SEQ_3,
+	SEQ_SUCCESS,
+	SEQ_FAIL,
+	SEQ_SUCCESS_CRI,
+	SEQ_FAIL_CRI,
+	SEQ_WAIT_SUCCESS_END,
+	SEQ_WAIT_FAIL_END
+}

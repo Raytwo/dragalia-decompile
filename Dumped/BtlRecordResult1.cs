@@ -1,0 +1,6 @@
+public enum BtlRecordResult1
+{
+	BTL_RECORD_RESULT_1_WIN,
+	BTL_RECORD_RESULT_1_LOSE,
+	BTL_RECORD_RESULT_1_DRAW
+}
