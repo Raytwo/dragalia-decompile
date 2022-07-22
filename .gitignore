@@ -2,7 +2,6 @@
 libil2cpp.so
 
 # Intermediate files
-global-metadata.dat
 .exclude
 
 # Miscellaneous
