@@ -47,7 +47,7 @@ jobs:
             --suppress-attributes ^
             --skip-analysis ^
             --force-binary-path ../main ^
-            --force-metadata-path global-metadata.dat ^
+            --force-metadata-path ../global-metadata.dat ^
 
       - name: Dump C# Meta
         shell: cmd
