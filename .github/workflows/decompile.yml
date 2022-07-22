@@ -36,12 +36,6 @@ jobs:
       - name: Unzip .so file
         run: |
           unzip libil2cpp.zip -d .
-        
-      - name: Dump metadata
-        shell: cmd
-        run: |
-          cd .tools/
-          dump-metadata ../libil2cpp.so
 
       - name: Export DLLs
         shell: cmd
@@ -52,9 +46,8 @@ jobs:
             --output-root ../.exclude ^
             --suppress-attributes ^
             --skip-analysis ^
-            --force-binary-path ../libil2cpp.so ^
+            --force-binary-path ../main ^
             --force-metadata-path global-metadata.dat ^
-            --force-unity-version 2019.4.31
 
       - name: Dump C# Meta
         shell: cmd
