@@ -48,6 +48,7 @@ jobs:
             --skip-analysis ^
             --force-binary-path ../main ^
             --force-metadata-path ../global-metadata.dat ^
+            --force-unity-version 2019.4.31
 
       - name: Dump C# Meta
         shell: cmd
