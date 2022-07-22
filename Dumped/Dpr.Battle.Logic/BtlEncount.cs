@@ -1,9 +1,0 @@
-namespace Dpr.Battle.Logic;
-
-public enum BtlEncount
-{
-	BTL_ENCOUNT_WILD,
-	BTL_ENCOUNT_TRAINER_2D,
-	BTL_ENCOUNT_TRAINER_3D,
-	BTL_ENCOUNT_TRAINER_GYM
-}

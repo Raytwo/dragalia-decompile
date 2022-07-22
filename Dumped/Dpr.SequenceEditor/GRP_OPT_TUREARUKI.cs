@@ -1,8 +1,0 @@
-namespace Dpr.SequenceEditor;
-
-public enum GRP_OPT_TUREARUKI
-{
-	GRP_OPT_NONE = 0,
-	GRP_OPT_BATTLE_TUREARUKI = 288,
-	GRP_OPT_BATTLE_NOT_TUREARUKI = 289
-}

@@ -1,9 +1,0 @@
-namespace DPData;
-
-public enum MSGSPEED
-{
-	MSGSPEED_SLOW,
-	MSGSPEED_NORMAL,
-	MSGSPEED_FAST,
-	MSGSPEED_MAX
-}

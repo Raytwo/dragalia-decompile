@@ -1,9 +1,0 @@
-namespace Dpr.Battle.Logic;
-
-public enum BtlResultSky
-{
-	BTL_RESULT_SKYBTL_LOSE,
-	BTL_RESULT_SKYBTL_LOSE_NOT_GAMEOVER,
-	BTL_RESULT_SKYBTL_WIN,
-	BTL_RESULT_SKYBTL_MAX
-}

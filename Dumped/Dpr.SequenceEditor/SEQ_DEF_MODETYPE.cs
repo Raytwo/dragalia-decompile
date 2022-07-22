@@ -1,7 +1,0 @@
-namespace Dpr.SequenceEditor;
-
-public enum SEQ_DEF_MODETYPE
-{
-	SEQ_DEF_MODETYPE_UNIFORM,
-	SEQ_DEF_MODETYPE_ADAPTIVE
-}

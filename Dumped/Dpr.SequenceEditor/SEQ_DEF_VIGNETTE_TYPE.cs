@@ -1,7 +1,0 @@
-namespace Dpr.SequenceEditor;
-
-public enum SEQ_DEF_VIGNETTE_TYPE
-{
-	SEQ_DEF_VIGNETTE_TYPE_STANDARD,
-	SEQ_DEF_VIGNETTE_TYPE_OPTIMGCIR
-}

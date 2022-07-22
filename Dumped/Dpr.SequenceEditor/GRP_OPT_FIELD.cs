@@ -1,9 +1,0 @@
-namespace Dpr.SequenceEditor;
-
-public enum GRP_OPT_FIELD
-{
-	GRP_OPT_NONE = 0,
-	GRP_OPT_FIELD_STADIUM = 190,
-	GRP_OPT_FIELD_NO_STADIUM = 191,
-	GRP_OPT_FIELD_NO_AUDIENCE = 192
-}

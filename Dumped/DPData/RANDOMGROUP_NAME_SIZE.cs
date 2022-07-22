@@ -1,7 +1,0 @@
-namespace DPData;
-
-internal enum RANDOMGROUP_NAME_SIZE
-{
-	GROUP_NAME_SIZE = 0x10,
-	PERSON_NAME_SIZE = 0x20
-}

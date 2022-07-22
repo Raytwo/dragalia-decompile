@@ -1,9 +1,0 @@
-namespace Dpr.Battle.Logic;
-
-public enum BtlPrintType
-{
-	BTL_PRINTTYPE_UNKNOWN,
-	BTL_PRINTTYPE_SERVER,
-	BTL_PRINTTYPE_CLIENT,
-	BTL_PRINTTYPE_STANDALONE
-}

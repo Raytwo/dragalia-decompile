@@ -1,7 +1,0 @@
-namespace Dpr.SequenceEditor;
-
-public enum SEQ_DEF_PARTICLE_DELETE
-{
-	SEQ_DEF_PARTICLE_DELETE_EMIT_STOP,
-	SEQ_DEF_PARTICLE_DELETE_KILL
-}

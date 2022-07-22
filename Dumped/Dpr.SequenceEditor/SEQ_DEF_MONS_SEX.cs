@@ -1,8 +1,0 @@
-namespace Dpr.SequenceEditor;
-
-public enum SEQ_DEF_MONS_SEX
-{
-	SEQ_DEF_MONS_SEX_MALE,
-	SEQ_DEF_MONS_SEX_FEMALE,
-	SEQ_DEF_MONS_SEX_UNKNOWN
-}
